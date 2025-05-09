@@ -1,4 +1,4 @@
-# intelligente-lampe
+# Intelligente Lampe
 Respository für das Gruppen-Projekt "Intelligente Lampe".
 
 ## Software
